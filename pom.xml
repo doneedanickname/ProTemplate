@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>UnimportantInfo</groupId>
 
-    <artifactId>TheTodo</artifactId>
+    <artifactId>AbnormalityCards</artifactId>
     <version>0.0.1</version>
-    <name>The Todo</name>
-    <description>TODO: Change this description</description>
+    <name>Abnormality Cards</name>
+    <description> A Mod for custom Abnormality cards based off of Library of Ruina. Adds a few new abnormalities as well, pre-existing and custom!</description>
     <!-- Change the above for mod information. -->
 
     <properties>
